@@ -53,7 +53,7 @@ public class Main extends JPanel
 		int ny = 1080;
 			
 		//Frame stuff
-		JFrame n = new JFrame("Ayy LMAO");
+		JFrame n = new JFrame("Render Screen");
 		n.setSize(nx, ny);
 	    
 		n.addWindowListener(new WindowAdapter() 
