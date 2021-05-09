@@ -1,4 +1,4 @@
-# Java-Raytracing-One-Weekend
+# Java Raytracing-One-Weekend
 Raytracing in One Weekend done by Peter Shirley in Java
 
 This program contains a JFrame that shows the rendering of the scene. However, the quality is worse compared to viewing the ppm image.
